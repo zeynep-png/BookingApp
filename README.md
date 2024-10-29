@@ -29,7 +29,8 @@ A comprehensive hotel management system built with ASP.NET Core, designed to han
 The Hotel Management System (HMS) is built to simplify and automate hotel operations. The system provides a secure platform for managing guests, rooms, bookings, and services, implementing a robust authentication and authorization mechanism with JWT.
 
 
-![image](https://github.com/user-attachments/assets/59079e17-9ed8-4d79-88c8-e2ceff87d808)
+![image](https://github.com/user-attachments/assets/2a325ba2-6f32-4303-94b9-d89a521e9af0)
+
 
 
 ## Technologies Used
